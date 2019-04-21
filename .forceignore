@@ -1,0 +1,8 @@
+package.xml
+**profiles
+**appSwitcher
+AppSwitcher.appMenu
+
+# LWC configuration files
+**/jsconfig.json
+**/.eslintrc.json
