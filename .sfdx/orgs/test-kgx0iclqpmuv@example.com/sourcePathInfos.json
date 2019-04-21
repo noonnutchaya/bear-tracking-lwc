@@ -1,11 +1,11 @@
 [
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555838859060,
+            "modifiedTime": 1555853000625,
             "changeTime": 1555838859060,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
@@ -15,12 +15,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555838859061,
+            "modifiedTime": 1555853000628,
             "changeTime": 1555838859061,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
@@ -30,9 +30,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1555847147760,
@@ -43,12 +43,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\aura",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\aura",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\aura",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555838859065,
+            "modifiedTime": 1555853000739,
             "changeTime": 1555838859065,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
@@ -58,9 +58,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1555850772514,
@@ -72,9 +72,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1555842369470,
@@ -86,12 +86,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555839525762,
+            "modifiedTime": 1555853000831,
             "changeTime": 1555839525762,
             "contentHash": "52c3cb0b8a3d76a48f8a3f7c8e54e96ed8488e5e",
             "isMetadataFile": false,
@@ -99,12 +99,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555839525747,
+            "modifiedTime": 1555853000864,
             "changeTime": 1555839525747,
             "contentHash": "2c5bb86d4eb5a219f2f028f27673e823be1b2bd8",
             "isMetadataFile": false,
@@ -112,12 +112,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555839525743,
+            "modifiedTime": 1555853000862,
             "changeTime": 1555839525743,
             "contentHash": "87273e048561800f0211ef7bc14e54ce4834f719",
             "isMetadataFile": false,
@@ -125,25 +125,25 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\listViews",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\listViews",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\listViews",
+            "state": "u",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\listViews",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1555839525757,
-            "changeTime": 1555839525757,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1555853683885,
+            "changeTime": 1555853683885,
+            "contentHash": "915f0742a4220017a64d6be3c304efdec607b791"
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555839525793,
+            "modifiedTime": 1555853000773,
             "changeTime": 1555839525793,
             "contentHash": "32d9f0b28167044755f53c1a232175c3f3036a9a",
             "isMetadataFile": false,
@@ -151,12 +151,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\compactLayouts",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\compactLayouts",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\compactLayouts",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\compactLayouts",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555839525788,
+            "modifiedTime": 1555853000772,
             "changeTime": 1555839525788,
             "contentHash": "3bca05e8924d7514c07e1a66525bc810ec7d3c52",
             "isMetadataFile": false,
@@ -164,12 +164,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555839525930,
+            "modifiedTime": 1555853000830,
             "changeTime": 1555839525930,
             "contentHash": "3677d481b57457ecc6349e8034c236ff661b606f",
             "isMetadataFile": false,
@@ -177,38 +177,38 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\Bear__c.object-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\Bear__c.object-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\Bear__c.object-meta.xml",
+            "state": "u",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\Bear__c.object-meta.xml",
             "isDirectory": false,
-            "size": 2566,
-            "modifiedTime": 1555839525689,
-            "changeTime": 1555839525689,
-            "contentHash": "ea602dba67009dacf8799d97cee0e667f7ccc152",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 2610,
+            "modifiedTime": 1555853683871,
+            "changeTime": 1555853683871,
+            "contentHash": "113e89a981d39a546e99e6f5838a34c14c7c1dc3"
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Age__c.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Age__c.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Age__c.field-meta.xml",
+            "state": "u",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Age__c.field-meta.xml",
             "isDirectory": false,
-            "size": 784,
-            "modifiedTime": 1555839525708,
-            "changeTime": 1555839525708,
-            "contentHash": "d8bd2df1c8e38c6b5756aee89fbbbfc77f8f5563",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 780,
+            "modifiedTime": 1555853683877,
+            "changeTime": 1555853683877,
+            "contentHash": "14c610a713df7b07856b6ebd06fcbfe7661478f0"
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Birthdate__c.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Birthdate__c.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Birthdate__c.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Birthdate__c.field-meta.xml",
             "isDirectory": false,
             "size": 369,
-            "modifiedTime": 1555839525716,
+            "modifiedTime": 1555853000849,
             "changeTime": 1555839525716,
             "contentHash": "e6eeea21ca081e0462c095c70d59787b771dbea0",
             "isMetadataFile": true,
@@ -216,12 +216,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Height__c.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Height__c.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Height__c.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Height__c.field-meta.xml",
             "isDirectory": false,
             "size": 450,
-            "modifiedTime": 1555839525721,
+            "modifiedTime": 1555853000851,
             "changeTime": 1555839525721,
             "contentHash": "399c21ccc1f2e17d73aeb9daf3542bca89473227",
             "isMetadataFile": true,
@@ -229,12 +229,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Location__c.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Location__c.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Location__c.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
             "size": 456,
-            "modifiedTime": 1555839525726,
+            "modifiedTime": 1555853000863,
             "changeTime": 1555839525726,
             "contentHash": "d6a0df2aadda7d8f3f543765312a4932af1c64b5",
             "isMetadataFile": true,
@@ -242,12 +242,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Observations__c.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Observations__c.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Observations__c.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Observations__c.field-meta.xml",
             "isDirectory": false,
             "size": 379,
-            "modifiedTime": 1555839525730,
+            "modifiedTime": 1555853000848,
             "changeTime": 1555839525730,
             "contentHash": "9caa4e01a65936ff9b5d0bfa95365869f7be5e41",
             "isMetadataFile": true,
@@ -255,12 +255,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Sex__c.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Sex__c.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Sex__c.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Sex__c.field-meta.xml",
             "isDirectory": false,
             "size": 863,
-            "modifiedTime": 1555839525736,
+            "modifiedTime": 1555853000861,
             "changeTime": 1555839525736,
             "contentHash": "1a1e3a74b6abd0790a5927416b1a1e5e0a5dc530",
             "isMetadataFile": true,
@@ -268,12 +268,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Supervisor__c.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Supervisor__c.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Supervisor__c.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Supervisor__c.field-meta.xml",
             "isDirectory": false,
             "size": 656,
-            "modifiedTime": 1555839525740,
+            "modifiedTime": 1555853000856,
             "changeTime": 1555839525740,
             "contentHash": "247feae98af08c305d6c85c4e29f8e55f7bc2ede",
             "isMetadataFile": true,
@@ -281,12 +281,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Weight__c.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Weight__c.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\fields\\Weight__c.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\fields\\Weight__c.field-meta.xml",
             "isDirectory": false,
             "size": 450,
-            "modifiedTime": 1555839525745,
+            "modifiedTime": 1555853000858,
             "changeTime": 1555839525745,
             "contentHash": "c1e15ec03bcedaf8c12cd1b52e5628679dbe2b41",
             "isMetadataFile": true,
@@ -294,12 +294,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\listViews\\All.listView-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\listViews\\All.listView-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Bear__c\\listViews\\All.listView-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
             "size": 339,
-            "modifiedTime": 1555839525758,
+            "modifiedTime": 1555853000841,
             "changeTime": 1555839525758,
             "contentHash": "29462b32590c7de904073eca6fa7c3b8c0c7708f",
             "isMetadataFile": true,
@@ -307,12 +307,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\compactLayouts\\Compact_Contact.compactLayout-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\compactLayouts\\Compact_Contact.compactLayout-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\compactLayouts\\Compact_Contact.compactLayout-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\compactLayouts\\Compact_Contact.compactLayout-meta.xml",
             "isDirectory": false,
             "size": 312,
-            "modifiedTime": 1555839525789,
+            "modifiedTime": 1555853000773,
             "changeTime": 1555839525789,
             "contentHash": "ed4d2ba580e869577320c492f8a45b2494bf72f6",
             "isMetadataFile": true,
@@ -320,12 +320,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
             "isDirectory": false,
             "size": 4743,
-            "modifiedTime": 1555839525773,
+            "modifiedTime": 1555853000766,
             "changeTime": 1555839525773,
             "contentHash": "21ffbc7a3497e2a97615a1e19fab824bcfc905a0",
             "isMetadataFile": true,
@@ -333,12 +333,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
             "isDirectory": false,
             "size": 227,
-            "modifiedTime": 1555839525807,
+            "modifiedTime": 1555853000793,
             "changeTime": 1555839525807,
             "contentHash": "57136529569e818c6c7e1d41fcb515d2f80a6621",
             "isMetadataFile": true,
@@ -346,12 +346,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
             "isDirectory": false,
             "size": 207,
-            "modifiedTime": 1555839525811,
+            "modifiedTime": 1555853000824,
             "changeTime": 1555839525811,
             "contentHash": "b1505ba6eaab38600e9faa96cc9016abe04edb65",
             "isMetadataFile": true,
@@ -359,12 +359,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
             "isDirectory": false,
             "size": 208,
-            "modifiedTime": 1555839525818,
+            "modifiedTime": 1555853000807,
             "changeTime": 1555839525818,
             "contentHash": "f28a6d31a9c4b92b6c2585b0095763b3309f2c4e",
             "isMetadataFile": true,
@@ -372,12 +372,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
             "isDirectory": false,
             "size": 203,
-            "modifiedTime": 1555839525822,
+            "modifiedTime": 1555853000796,
             "changeTime": 1555839525822,
             "contentHash": "b8d343cf4ffe6890fd7e5b06148a5772c07a3ea3",
             "isMetadataFile": true,
@@ -385,12 +385,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\CleanStatus.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\CleanStatus.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\CleanStatus.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\CleanStatus.field-meta.xml",
             "isDirectory": false,
             "size": 205,
-            "modifiedTime": 1555839525828,
+            "modifiedTime": 1555853000826,
             "changeTime": 1555839525828,
             "contentHash": "edc7848a5bfa75f14a6e69ef93874fda083d2d6e",
             "isMetadataFile": true,
@@ -398,12 +398,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
             "isDirectory": false,
             "size": 204,
-            "modifiedTime": 1555839525833,
+            "modifiedTime": 1555853000817,
             "changeTime": 1555839525833,
             "contentHash": "a968dcf72d4739ad4d372f175004fef8018f4319",
             "isMetadataFile": true,
@@ -411,12 +411,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
             "isDirectory": false,
             "size": 205,
-            "modifiedTime": 1555839525837,
+            "modifiedTime": 1555853000822,
             "changeTime": 1555839525837,
             "contentHash": "9329aa8a81fcb301652178deb8e75487ad0c4beb",
             "isMetadataFile": true,
@@ -424,12 +424,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
             "isDirectory": false,
             "size": 203,
-            "modifiedTime": 1555839525842,
+            "modifiedTime": 1555853000798,
             "changeTime": 1555839525842,
             "contentHash": "3ce847ba7bf918544a210d1f5f2db551fa7f04de",
             "isMetadataFile": true,
@@ -437,12 +437,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
             "isDirectory": false,
             "size": 199,
-            "modifiedTime": 1555839525846,
+            "modifiedTime": 1555853000809,
             "changeTime": 1555839525846,
             "contentHash": "c37d517a74d93d8a12a2edeaa761e3bb00fcd8d2",
             "isMetadataFile": true,
@@ -450,12 +450,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
             "isDirectory": false,
             "size": 197,
-            "modifiedTime": 1555839525850,
+            "modifiedTime": 1555853000799,
             "changeTime": 1555839525850,
             "contentHash": "ef6483feeca8d8a846bd11841959ed7170e1b20e",
             "isMetadataFile": true,
@@ -463,12 +463,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
             "isDirectory": false,
             "size": 212,
-            "modifiedTime": 1555839525854,
+            "modifiedTime": 1555853000820,
             "changeTime": 1555839525854,
             "contentHash": "7d4146adae6e5674f023366acb1c65d25c851e64",
             "isMetadataFile": true,
@@ -476,12 +476,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
             "isDirectory": false,
             "size": 210,
-            "modifiedTime": 1555839525859,
+            "modifiedTime": 1555853000829,
             "changeTime": 1555839525859,
             "contentHash": "25ee8a3fb64e8de0fa7233e1d10e5d9823f738ca",
             "isMetadataFile": true,
@@ -489,12 +489,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
             "isDirectory": false,
             "size": 203,
-            "modifiedTime": 1555839525865,
+            "modifiedTime": 1555853000803,
             "changeTime": 1555839525865,
             "contentHash": "2fab6cdb4eb1e4062b4d3f7fe4b69d5523097bb2",
             "isMetadataFile": true,
@@ -502,12 +502,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
             "isDirectory": false,
             "size": 200,
-            "modifiedTime": 1555839525869,
+            "modifiedTime": 1555853000805,
             "changeTime": 1555839525869,
             "contentHash": "d259680afeb61a4c49142d0f2224bf4d2d865a63",
             "isMetadataFile": true,
@@ -515,12 +515,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
             "isDirectory": false,
             "size": 163,
-            "modifiedTime": 1555839525874,
+            "modifiedTime": 1555853000830,
             "changeTime": 1555839525874,
             "contentHash": "38a458d58423b2331f0c427f269fb7249fe67df0",
             "isMetadataFile": true,
@@ -528,12 +528,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
             "isDirectory": false,
             "size": 162,
-            "modifiedTime": 1555839525881,
+            "modifiedTime": 1555853000814,
             "changeTime": 1555839525881,
             "contentHash": "f8961a7749a30894d3797e7f1d18d635697bdb0e",
             "isMetadataFile": true,
@@ -541,12 +541,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
             "isDirectory": false,
             "size": 231,
-            "modifiedTime": 1555839525888,
+            "modifiedTime": 1555853000816,
             "changeTime": 1555839525888,
             "contentHash": "a5b5f22efd3f1822dcc35c7f1420cbc46e0f285c",
             "isMetadataFile": true,
@@ -554,12 +554,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
             "isDirectory": false,
             "size": 208,
-            "modifiedTime": 1555839525893,
+            "modifiedTime": 1555853000812,
             "changeTime": 1555839525893,
             "contentHash": "5a4c59093fd759caa9e05abda7025439f397b8a2",
             "isMetadataFile": true,
@@ -567,12 +567,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
             "isDirectory": false,
             "size": 205,
-            "modifiedTime": 1555839525898,
+            "modifiedTime": 1555853000779,
             "changeTime": 1555839525898,
             "contentHash": "22b903f9046aa5fd30ac4d15a46f0121977bb65b",
             "isMetadataFile": true,
@@ -580,12 +580,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
             "isDirectory": false,
             "size": 197,
-            "modifiedTime": 1555839525903,
+            "modifiedTime": 1555853000781,
             "changeTime": 1555839525903,
             "contentHash": "a348762e6f28525be0a04e0d0cefbeab5ce254ce",
             "isMetadataFile": true,
@@ -593,12 +593,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
             "isDirectory": false,
             "size": 206,
-            "modifiedTime": 1555839525908,
+            "modifiedTime": 1555853000783,
             "changeTime": 1555839525908,
             "contentHash": "4a7a6bfe5702c0148a26b194c104d70ef6389374",
             "isMetadataFile": true,
@@ -606,12 +606,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
             "isDirectory": false,
             "size": 204,
-            "modifiedTime": 1555839525913,
+            "modifiedTime": 1555853000786,
             "changeTime": 1555839525913,
             "contentHash": "bbdbb514300529959b7af670253c32aa87fa82e3",
             "isMetadataFile": true,
@@ -619,12 +619,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
             "isDirectory": false,
             "size": 225,
-            "modifiedTime": 1555839525917,
+            "modifiedTime": 1555853000788,
             "changeTime": 1555839525917,
             "contentHash": "b7d412be3216cb9efc01a1a73b1be18ada7a928e",
             "isMetadataFile": true,
@@ -632,12 +632,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
             "isDirectory": false,
             "size": 199,
-            "modifiedTime": 1555839525922,
+            "modifiedTime": 1555853000789,
             "changeTime": 1555839525922,
             "contentHash": "b19da99a12a24159f0bb108f6ba8c50b1ee89310",
             "isMetadataFile": true,
@@ -645,12 +645,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
             "isDirectory": false,
             "size": 230,
-            "modifiedTime": 1555839525927,
+            "modifiedTime": 1555853000791,
             "changeTime": 1555839525927,
             "contentHash": "955a67e6259d9ac43b64ddddbc2646205611fdf4",
             "isMetadataFile": true,
@@ -658,12 +658,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
             "isDirectory": false,
             "size": 199,
-            "modifiedTime": 1555839525931,
+            "modifiedTime": 1555853000801,
             "changeTime": 1555839525931,
             "contentHash": "6ecbf332b299f07eb04966cf450f814b82a4bf55",
             "isMetadataFile": true,
@@ -671,12 +671,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\flexipages\\Ursus_Park_UtilityBar.flexipage-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\flexipages\\Ursus_Park_UtilityBar.flexipage-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\flexipages\\Ursus_Park_UtilityBar.flexipage-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\flexipages\\Ursus_Park_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
             "size": 505,
-            "modifiedTime": 1555840988182,
+            "modifiedTime": 1555853000638,
             "changeTime": 1555840988182,
             "contentHash": "96b88bdfccb723542c1e0a647c1bf1739c2017de",
             "isMetadataFile": true,
@@ -684,12 +684,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\tabs\\Bear__c.tab-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\tabs\\Bear__c.tab-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\tabs\\Bear__c.tab-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\tabs\\Bear__c.tab-meta.xml",
             "isDirectory": false,
             "size": 221,
-            "modifiedTime": 1555840988190,
+            "modifiedTime": 1555853000644,
             "changeTime": 1555840988190,
             "contentHash": "75215d73ba88fdbc03728d0e663651a057b2b7a1",
             "isMetadataFile": true,
@@ -697,12 +697,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\applications\\Ursus_Park.app-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\applications\\Ursus_Park.app-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\applications\\Ursus_Park.app-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\applications\\Ursus_Park.app-meta.xml",
             "isDirectory": false,
             "size": 864,
-            "modifiedTime": 1555842062607,
+            "modifiedTime": 1555853000650,
             "changeTime": 1555842062610,
             "contentHash": "5bb017cd5fb15f73fd7976951d8fdb62b22f4b23",
             "isMetadataFile": true,
@@ -710,25 +710,25 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\flexipages",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\flexipages",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\flexipages",
+            "state": "u",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1555840988181,
-            "changeTime": 1555840988181,
-            "contentHash": "836ea3bc91925b6970d8a95cadbee00e5b6672ec",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1555853683899,
+            "changeTime": 1555853683899,
+            "contentHash": "02c344d6491ef401a10c031bbed79d566659eead"
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\tabs",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\tabs",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\tabs",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\tabs",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555840988190,
+            "modifiedTime": 1555853000643,
             "changeTime": 1555840988190,
             "contentHash": "87436597ae7ef4ce6c2a60b7d3d18e2f53cecb2b",
             "isMetadataFile": false,
@@ -736,12 +736,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\applications",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\applications",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\applications",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\applications",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555842069809,
+            "modifiedTime": 1555853000649,
             "changeTime": 1555840988198,
             "contentHash": "158089961e9016299165006936463ba648634855",
             "isMetadataFile": false,
@@ -749,12 +749,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\permissionsets",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\permissionsets",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\permissionsets",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555841984352,
+            "modifiedTime": 1555853000656,
             "changeTime": 1555841984352,
             "contentHash": "13ca3158b9eadaf7870598bf23b54059005f1bf5",
             "isMetadataFile": false,
@@ -762,12 +762,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\contentassets",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\contentassets",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\contentassets",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\contentassets",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555842024070,
+            "modifiedTime": 1555853000755,
             "changeTime": 1555842024070,
             "contentHash": "9680d44587cd939be4591a2d53027c85a0449d53",
             "isMetadataFile": false,
@@ -775,12 +775,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555842008093,
+            "modifiedTime": 1555853000738,
             "changeTime": 1555842008093,
             "contentHash": "918b08cdf43b31990f2e57d682893270e0c45a00",
             "isMetadataFile": false,
@@ -788,12 +788,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources\\ursus_park",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources\\ursus_park",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources\\ursus_park",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources\\ursus_park",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555842008087,
+            "modifiedTime": 1555853000736,
             "changeTime": 1555842008087,
             "contentHash": "dadbdc68d0af7fcc1578f839950be6eb11ad70c1",
             "isMetadataFile": false,
@@ -801,12 +801,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources\\ursus_park\\img",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources\\ursus_park\\img",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources\\ursus_park\\img",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources\\ursus_park\\img",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555842008080,
+            "modifiedTime": 1555853000734,
             "changeTime": 1555842008080,
             "contentHash": "badc5f04e5a8cd02f3bca906fe2ccbac3740ffbf",
             "isMetadataFile": false,
@@ -814,12 +814,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\contentassets\\ursusparkapplogo.asset",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\contentassets\\ursusparkapplogo.asset",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\contentassets\\ursusparkapplogo.asset",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\contentassets\\ursusparkapplogo.asset",
             "isDirectory": false,
             "size": 10276,
-            "modifiedTime": 1555842024066,
+            "modifiedTime": 1555853000754,
             "changeTime": 1555842024066,
             "contentHash": "d19c6ff47afccf02cbe64d182a20250481da5384",
             "isMetadataFile": false,
@@ -827,12 +827,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\contentassets\\ursusparkapplogo.asset-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\contentassets\\ursusparkapplogo.asset-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\contentassets\\ursusparkapplogo.asset-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\contentassets\\ursusparkapplogo.asset-meta.xml",
             "isDirectory": false,
             "size": 565,
-            "modifiedTime": 1555842024071,
+            "modifiedTime": 1555853000756,
             "changeTime": 1555842024071,
             "contentHash": "7907136d0d0c7acf0398a258a1e1d166de8a8a94",
             "isMetadataFile": true,
@@ -840,12 +840,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources\\ursus_park\\img\\standing-bear-silhouette.png",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources\\ursus_park\\img\\standing-bear-silhouette.png",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources\\ursus_park\\img\\standing-bear-silhouette.png",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources\\ursus_park\\img\\standing-bear-silhouette.png",
             "isDirectory": false,
             "size": 31189,
-            "modifiedTime": 1555842008083,
+            "modifiedTime": 1555853000735,
             "changeTime": 1555842008083,
             "contentHash": "2343899f13a1850d5ff2136421425745cdafa3fe",
             "isMetadataFile": false,
@@ -853,12 +853,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources\\ursus_park\\style.css",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources\\ursus_park\\style.css",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources\\ursus_park\\style.css",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources\\ursus_park\\style.css",
             "isDirectory": false,
             "size": 480,
-            "modifiedTime": 1555842008088,
+            "modifiedTime": 1555853000737,
             "changeTime": 1555842008088,
             "contentHash": "278c4eed0a6136298ee1ce62f0b779a7fe5b1cc7",
             "isMetadataFile": false,
@@ -866,12 +866,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources\\ursus_park.resource-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources\\ursus_park.resource-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\staticresources\\ursus_park.resource-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\staticresources\\ursus_park.resource-meta.xml",
             "isDirectory": false,
             "size": 267,
-            "modifiedTime": 1555842008095,
+            "modifiedTime": 1555853000739,
             "changeTime": 1555842008095,
             "contentHash": "2c1b800047ee421f532bfb10e5c66b9077163363",
             "isMetadataFile": true,
@@ -879,12 +879,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\permissionsets\\Ursus_Park_User.permissionset-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\permissionsets\\Ursus_Park_User.permissionset-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\permissionsets\\Ursus_Park_User.permissionset-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\permissionsets\\Ursus_Park_User.permissionset-meta.xml",
             "isDirectory": false,
             "size": 5750,
-            "modifiedTime": 1555841938654,
+            "modifiedTime": 1555853000657,
             "changeTime": 1555841938654,
             "contentHash": "563a7200a7c6a1af28278b03a94eb22414a3c70d",
             "isMetadataFile": true,
@@ -892,9 +892,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearLocation",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearLocation",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearLocation",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearLocation",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1555845611623,
@@ -905,9 +905,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.html",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.html",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.html",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.html",
             "isDirectory": false,
             "size": 185,
             "modifiedTime": 1555842818713,
@@ -918,9 +918,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.js",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.js",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.js",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.js",
             "isDirectory": false,
             "size": 928,
             "modifiedTime": 1555845602136,
@@ -931,9 +931,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.js-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.js-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.js-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearLocation\\bearLocation.js-meta.xml",
             "isDirectory": false,
             "size": 508,
             "modifiedTime": 1555843597831,
@@ -944,9 +944,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearSupervisor",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearSupervisor",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearSupervisor",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearSupervisor",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1555845722435,
@@ -957,9 +957,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.html",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.html",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.html",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.html",
             "isDirectory": false,
             "size": 554,
             "modifiedTime": 1555846019677,
@@ -970,9 +970,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.js",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.js",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.js",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.js",
             "isDirectory": false,
             "size": 454,
             "modifiedTime": 1555846216501,
@@ -983,9 +983,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.js-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.js-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.js-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearSupervisor\\bearSupervisor.js-meta.xml",
             "isDirectory": false,
             "size": 510,
             "modifiedTime": 1555845819630,
@@ -996,9 +996,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\classes",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\classes",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\classes",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1555847165482,
@@ -1009,9 +1009,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearList",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearList",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearList",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearList",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1555846356956,
@@ -1022,9 +1022,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\classes\\BearController.cls",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\classes\\BearController.cls",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\classes\\BearController.cls",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\classes\\BearController.cls",
             "isDirectory": false,
             "size": 935,
             "modifiedTime": 1555848403428,
@@ -1035,9 +1035,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\classes\\BearController.cls-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\classes\\BearController.cls-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\classes\\BearController.cls-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\classes\\BearController.cls-meta.xml",
             "isDirectory": false,
             "size": 192,
             "modifiedTime": 1555847165484,
@@ -1048,9 +1048,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearList\\bearList.html",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearList\\bearList.html",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearList\\bearList.html",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearList\\bearList.html",
             "isDirectory": false,
             "size": 1260,
             "modifiedTime": 1555849975959,
@@ -1061,22 +1061,22 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearList\\bearList.js",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearList\\bearList.js",
         {
-            "state": "u",
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearList\\bearList.js",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearList\\bearList.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1342,
             "modifiedTime": 1555852338090,
             "changeTime": 1555852338090,
-            "contentHash": "cd642be24c934235fc31aa325cc59e85d28f87bc"
+            "contentHash": "cd642be24c934235fc31aa325cc59e85d28f87bc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearList\\bearList.js-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearList\\bearList.js-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearList\\bearList.js-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearList\\bearList.js-meta.xml",
             "isDirectory": false,
             "size": 387,
             "modifiedTime": 1555847382195,
@@ -1087,9 +1087,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearTile",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearTile",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearTile",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearTile",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1555849423341,
@@ -1100,9 +1100,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearTile\\bearTile.css",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearTile\\bearTile.css",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearTile\\bearTile.css",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearTile\\bearTile.css",
             "isDirectory": false,
             "size": 39,
             "modifiedTime": 1555849435663,
@@ -1113,9 +1113,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearTile\\bearTile.html",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearTile\\bearTile.html",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearTile\\bearTile.html",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearTile\\bearTile.html",
             "isDirectory": false,
             "size": 925,
             "modifiedTime": 1555850301180,
@@ -1126,9 +1126,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearTile\\bearTile.js",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearTile\\bearTile.js",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearTile\\bearTile.js",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearTile\\bearTile.js",
             "isDirectory": false,
             "size": 418,
             "modifiedTime": 1555849903868,
@@ -1139,9 +1139,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearTile\\bearTile.js-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearTile\\bearTile.js-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearTile\\bearTile.js-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearTile\\bearTile.js-meta.xml",
             "isDirectory": false,
             "size": 223,
             "modifiedTime": 1555849235935,
@@ -1152,9 +1152,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearMap",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearMap",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearMap",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearMap",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1555850772523,
@@ -1165,12 +1165,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\pubsub",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\pubsub",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\pubsub",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\pubsub",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555850600325,
+            "modifiedTime": 1555853000720,
             "changeTime": 1555850600325,
             "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972",
             "isMetadataFile": false,
@@ -1178,9 +1178,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearMap\\bearMap.html",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearMap\\bearMap.html",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearMap\\bearMap.html",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearMap\\bearMap.html",
             "isDirectory": false,
             "size": 187,
             "modifiedTime": 1555851792685,
@@ -1191,9 +1191,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearMap\\bearMap.js",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearMap\\bearMap.js",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearMap\\bearMap.js",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearMap\\bearMap.js",
             "isDirectory": false,
             "size": 965,
             "modifiedTime": 1555851622100,
@@ -1204,9 +1204,9 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearMap\\bearMap.js-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearMap\\bearMap.js-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\bearMap\\bearMap.js-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\bearMap\\bearMap.js-meta.xml",
             "isDirectory": false,
             "size": 386,
             "modifiedTime": 1555851311858,
@@ -1217,12 +1217,12 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
             "isDirectory": false,
             "size": 3196,
-            "modifiedTime": 1555850600323,
+            "modifiedTime": 1555853000718,
             "changeTime": 1555850600323,
             "contentHash": "e64e6ae9ea6f47d1449ce68d5a3a1380b17065a0",
             "isMetadataFile": false,
@@ -1230,16 +1230,55 @@
         }
     ],
     [
-        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
         {
-            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bearTracking\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
             "isDirectory": false,
             "size": 214,
-            "modifiedTime": 1555850600325,
+            "modifiedTime": 1555853000720,
             "changeTime": 1555850600325,
             "contentHash": "9a0d355b959fb4fa929cc74ff49ed855d8c47e34",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\listViews\\All1.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\objects\\Bear__c\\listViews\\All1.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1555853683886,
+            "changeTime": 1555853683886,
+            "contentHash": "301c9a001074105644f45e03f6240b10381e43c0"
+        }
+    ],
+    [
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1715,
+            "modifiedTime": 1555853683895,
+            "changeTime": 1555853683895,
+            "contentHash": "59420b0e6956a2ae889e54b7cc0b1cf9fde4f782"
+        }
+    ],
+    [
+        "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\flexipages\\Bear_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\samol.seng\\Tutorials\\Salesforce\\bear-tracking-lwc\\force-app\\main\\default\\flexipages\\Bear_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3650,
+            "modifiedTime": 1555853683899,
+            "changeTime": 1555853683899,
+            "contentHash": "2e4f448831d94e30b4923c363e185e3e41a4efaa"
         }
     ]
 ]
