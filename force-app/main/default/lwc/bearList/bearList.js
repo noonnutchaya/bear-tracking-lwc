@@ -5,9 +5,7 @@ import ursusResources from '@salesforce/resourceUrl/ursus_park';
 export default class BearList extends LightningElement {
   @track searchTerm = '';
   @wire(searchBears, { searchTerm: '$searchTerm' })bears;
-  appResources = {
-    bearSilhouette: ursusResources + '/img/standing-bear-silhouette.png'
-  };
+  
   handleSearchTermChange(event) {
     window.clearTimeout(this.delayTimeout);
     const searchTerm = event.target.value;
