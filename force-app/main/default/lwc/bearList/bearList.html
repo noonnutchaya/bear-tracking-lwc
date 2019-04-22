@@ -8,21 +8,21 @@
       </template>
       <template if:true={bears.data}>
         <lightning-input
-          type="search"
+          type="Search"
           variant="label-hidden"
-          class="slds-m-bottom_small"
           placeholder="Search for bears"
+          class="slds-m-bottom_small"
           value={searchTerm}
           onchange={handleSearchTermChange}
         ></lightning-input>
-        <template if:false={hasResults}>
-          <div class="slds-align_absolute-center slds-m-vertical_small">
-            This is beary disturbing, we did not find results...
-          </div>
-        </template>
-        <lightning-layout multiple-rows="true" pull-to-boundary="small">
+        <lightning-layout onbearview={handleBearView} multiple-rows="true" pull-to-boundary="small">
+          <template if:false={hasResults}>
+            <div class="slds-align_absolute-center slds-m-vertical_small">
+              This is beary disturbing, we did not find results...
+            </div>
+          </template>
           <template for:each={bears.data} for:item="bear">
-            <lightning-layout-item onbearview={handleBearView} key={bear.Id} size="3" class="slds-p-around_x-small">
+            <lightning-layout-item key={bear.Id} size="3" class="slds-p-around_x-small">
               <c-bear-tile bear={bear}></c-bear-tile>
             </lightning-layout-item>
           </template>
