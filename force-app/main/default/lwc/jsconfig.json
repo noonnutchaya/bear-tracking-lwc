@@ -3,14 +3,17 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
-            "c/pubsub": [
-                "pubsub/pubsub.js"
+            "c/bearList": [
+                "bearList/bearList.js"
             ],
             "c/bearLocation": [
                 "bearLocation/bearLocation.js"
             ],
             "c/bearSupervisor": [
                 "bearSupervisor/bearSupervisor.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
             ]
         }
     },
