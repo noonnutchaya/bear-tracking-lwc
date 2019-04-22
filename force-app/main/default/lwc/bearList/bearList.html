@@ -7,7 +7,20 @@
         </div>
       </template>
       <template if:true={bears.data}>
+        <lightning-input
+          type="Search"
+          variant="label-hidden"
+          placeholder="Search for bears"
+          class="slds-m-bottom_small"
+          value={searchTerm}
+          onchange={handleSearchTermChange}
+        ></lightning-input>
         <lightning-layout multiple-rows="true" pull-to-boundary="small">
+          <template if:false={hasResults}>
+            <div class="slds-text-color_error">
+              This is beary disturbing, we did not find results...
+            </div>
+          </template>
           <template for:each={bears.data} for:item="bear">
             <lightning-layout-item key={bear.Id} size="3" class="slds-p-around_x-small">
               <lightning-card title={bear.Name} class="bear-tile">
